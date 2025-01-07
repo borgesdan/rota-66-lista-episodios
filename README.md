@@ -1,6 +1,6 @@
 # Lista de episódios do Rota 66 - Luiz Sayão
 
-> Esse repositório serve somente para armazenar a lista de episódios do programa de rádio Rota 66 com Luiz Sayão.
+> Esse repositório serve somente para armazenar a lista de episódios do programa de rádio Rota 66 com Luiz Sayão pela ordem em que foi apresentado.
 
 # Episódios
 
